@@ -43,6 +43,15 @@ Explore the full route network, filter by region and route type, and drill into 
 - [Author](#-author)
 - [License](#-license)
 
+## 🚀 Live Demo
+
+- Interactive dashboard: [Tableau Public Live Demo](https://public.tableau.com/app/profile/shrimay.tumane/viz/Book1_17864051986490/QatarAirwaysNetworkIntelligence?publish=yes)
+- GitHub repository: [Qatar Airways Network Intelligence](https://github.com/ShrimayTumane/Qatar-Airways-Network-Intelligence)
+
+## 🧭 Portfolio Highlight
+
+This project demonstrates end-to-end analytics and storytelling for an aviation network strategy problem. It combines data cleaning, geographic analysis, route classification, and executive-friendly dashboard design to transform raw route data into network intelligence.
+
 ---
 
 ## 📊 Project Overview
